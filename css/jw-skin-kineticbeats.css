@@ -1,0 +1,14 @@
+.jwplayer.jw-skin-kineticbeats.jw-flag-aspect-mode{
+    /*height:auto!important;*/
+    height: 100% !important;
+    background-color: #FFF;
+}
+
+/*@media (max-width: 700px) {
+    .jwplayer.jw-skin-kineticbeats video {
+        top: 0;
+        right: 40%;
+        bottom: 0;
+        left: -40%;
+    }
+}*/
